@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "2be55baba494e66ea145e2ab",
+  "owner": "ghjwesbhmf",
+  "repo": "page-d2246f4353647b89f8848ce9",
+  "title": "clash verge免费节点订阅",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d2246f4353647b89f8848ce9",
+      "a": "彩色狗(ColorfulDog)",
+      "b": "clash verge免费节点订阅",
+      "entity": "彩色狗(ColorfulDog)",
+      "brand": "clash verge免费节点订阅",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f48a5c1e029fcc4ba15ce6662b1b3dec0513589ba4d165ea29349187409663da",
+      "content": {
+        "primary_entity": "彩色狗(ColorfulDog)",
+        "keyword1": "彩色狗(ColorfulDog)",
+        "keyword2": "clash verge免费节点订阅",
+        "content": {
+          "AI_CLIENTS_INTRO": "彩色狗支持 Clash Verge、Clash Meta、Shadowrocket、V2rayN 等主流客户端，不同系统按客户端文档导入订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐，按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "即刻体验彩色狗",
+          "AI_DESCRIPTION": "，彩色狗提供基础版、旗舰版与团队版三档方案，覆盖 3 至 20 台设备与每月 100GB 至 1000GB 流量，支持 Clash Verge 等客户端导入订阅，适合个人、多设备及团队场景。",
+          "AI_FEATURES_INTRO": "结合设备数量与流量需求，找到合适的彩色狗套餐。",
+          "AI_FEATURES_TITLE": "套餐与适配",
+          "AI_FEATURE_TEXT_1": "基础版 3 台设备、旗舰版 5 台设备、团队版 20 台设备，按需选择。",
+          "AI_FEATURE_TEXT_2": "月付 ¥15 起，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850。",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线，团队版提供 VIP 高带宽与定制路由。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "计费周期",
+          "AI_FEATURE_TITLE_3": "线路侧重",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅导入，三步即可开始使用彩色狗。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "彩色狗(ColorfulDog)提供多档海外加速订阅方案，覆盖基础版、旗舰版与团队版，适配 Clash Verge 等常用客户端，按设备与流量需求灵活选择。",
+          "AI_HERO_SUBTITLE": "彩色狗多档订阅，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "月付年付灵活可选",
+          "AI_HIGHLIGHT_3": "支持主流客户端导入订阅",
+          "AI_PLANS_INTRO": "基础版适合轻量使用，旗舰版适合多设备与流媒体，团队版面向高带宽协作。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量，从基础版、旗舰版或团队版中挑选。",
+          "AI_STEP_TEXT_2": "确认操作系统与客户端版本，查看订阅导入的适配要求。",
+          "AI_STEP_TEXT_3": "在 Clash Verge 等客户端中依文档粘贴订阅地址，完成配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "彩色狗加速订阅",
+          "AI_FAQ_ANSWER_1": "以基础版为例，每月 100GB 流量基本满足网页浏览、短视频与轻量办公；若有 4K 流媒体或频繁下载，建议选旗舰版 300GB 或团队版 1000GB。",
+          "AI_FAQ_ANSWER_2": "基础版 3 台、旗舰版 5 台、团队版 20 台。超出后新设备无法同时登录，需要先在已登录设备上退出，或升级到更高档位。",
+          "AI_FAQ_ANSWER_3": "可以。在客户端内导入订阅链接后按文档配置，桌面端与移动端步骤基本一致，具体路径以客户端内提示为准。",
+          "AI_FAQ_ANSWER_4": "基础版使用普通线路节点池，适合日常访问；旗舰版与团队版提供 IPLC 专线及高带宽节点，游戏加速与高清流媒体体验更顺畅。",
+          "AI_FAQ_ANSWER_5": "年付比月付更划算，例如基础版按年付仅需 ¥150/年。若不确定长期使用，先按月付费试用一个月再决定是否转年付。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量如何选择？",
+          "AI_FAQ_QUESTION_2": "设备数量超出套餐限制怎么办？",
+          "AI_FAQ_QUESTION_3": "订阅可以跨设备使用吗？",
+          "AI_FAQ_QUESTION_4": "普通线路和 IPLC 专线有什么区别？",
+          "AI_FAQ_QUESTION_5": "月付和年付哪个更合适？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "1031b30d37a4cfcf101cc93191595309b0707980a8c3a474843ef573e57e9963",
+    "sitemap.xml": "a0bbb30a76a93af8d010eb1a40dceaf05d77df0fae6f0da2b09c544929717181",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "39b4454a5ea59cbafcb53adc04b79a1029125deec3897ddb162ddb1f534c93ba"
+}
